@@ -4,3 +4,9 @@ Admin Login: todolist
 Admin Pass: 123456789
 User login : user
 User pass : 123Student
+commands => python manage.py startapp ___name__app__
+=> django-admin startproject ___name__
+=>cd __name__
+=>python manage.py runserver 
+=> python manage.py makemigrations 
+=> python manage.py createsuperuser (after this command you have to create a Login and Pass  for admin page)
